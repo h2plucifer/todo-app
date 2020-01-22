@@ -34,4 +34,8 @@ header {
   height: 100%;
   float: right;
 }
+
+#task-display {
+color: red;
+}
 /*# sourceMappingURL=style.css.map */

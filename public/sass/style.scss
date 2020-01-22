@@ -12,6 +12,7 @@ header{
 }
 
 .container{
+   
     width:80%;
     height:80%;
     display: inline-flex;
@@ -34,4 +35,7 @@ header{
     width:60%;
     height:100%;
     float:right;
+}
+#task-display{
+ background-color: gray;
 }
